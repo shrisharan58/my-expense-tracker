@@ -26,7 +26,7 @@ Things I verified include:
 
 ---
 
-The AI suggestions that I did not use and the reasons why
+## 3.The AI suggestions that I did not use and the reasons why
 
 I chose not to follow certain AI suggestions.
 
